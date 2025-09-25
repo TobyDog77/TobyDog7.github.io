@@ -30,7 +30,7 @@ twitter_username: TobyDog7
 github_username:  TobyDog77
 
 # Build settings
-theme: merlot
+theme: minima
 plugins:
   - jekyll-feed
 
