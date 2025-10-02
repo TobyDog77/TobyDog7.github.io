@@ -29,7 +29,7 @@ twitter_username: toby_dog7
 github_username:  TobyDog77
 
 # Build settings
-theme: minima
+theme: fortyone-jekyll-theme
 plugins:
   - jekyll-feed
 
