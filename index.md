@@ -1,11 +1,21 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'TobyDog7s game development site'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+## Youtube
+Follow my updates, trailer and general videos about my gamedev: **https://www.youtube.com/@Dynamos-Prologue**
+
+## Discord
+You can contact me on Discord via my DM's, my username is **tobydog77**.
+
+## Bluesky
+You can follow my projects on Bluesky: **https://bsky.app/profile/tobydog7.bsky.social**
+
+## Github
+And see my open-source projects on Github: **https://github.com/TobyDog77**
